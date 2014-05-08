@@ -10,7 +10,7 @@ Use with one of the following browser extensions:
 
 ### Google Chrome ###
 *	[Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
-*	Convert script to Google Chrome extension:
+*	Convert script to Google Chrome extension (scripts installed this way will receive no support from me):
 
 	>1. Save the script (the `*.user.js` file) to your computer.
 	>2. In Chrome, go to _Tools > Extensions_.
@@ -18,6 +18,11 @@ Use with one of the following browser extensions:
 
 Release Notes
 =============
+
+Version 1.1.1
+-------------
+_Released 2014-05-08_
+*	As suggested by [Betelgeuse](http://www.gamefaqs.com/users/Betelgeuse) (thanks!), script now only shows link if you are currently logged in
 
 Version 1.1
 -----------
