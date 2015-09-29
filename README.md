@@ -2,6 +2,8 @@ GameFAQs User Info Link in Header
 =================================
 Adds a link to your "Board User Info" in the user navigation menu at the top of the site.
 
+## THIS SCRIPT HAS BEEN DISCONTINUED AS OF 2015-09-29 AND WILL NO LONGER BE DEVELOPED ##
+
 Use with one of the following browser extensions:
 
 ### Mozilla Firefox ###
